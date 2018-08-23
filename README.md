@@ -7,4 +7,8 @@
 3. word2vec词向量模型学习，均值计算文本特征向量
 
 ## python包
-`requests`包、`jieba`包、`gensim`包
+　　`requests`包、`jieba`包、`gensim`包
+
+## 文档介绍
+　　`resources`文件夹中存放了代码运行过程中产生的文件，如评论数据、词向量模型文件、特征文档等。    
+　　具体代码参见各`.py`文件。
